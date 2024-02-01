@@ -2,9 +2,9 @@
 
 A repo to keep a track of GitHub issues that were closed because the owners were too busy to care.
 
-## Projects/Vendors
+## Project/Vendor lists
 
-* Microsoft
+* [Microsoft](./Microsoft.md)
 
 ## Background
 
