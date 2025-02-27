@@ -4,6 +4,7 @@ A repo to keep a track of GitHub issues that were closed because the owners were
 
 ## Project/Vendor lists
 
+* [Hashicorp](./Hashicorp.md)
 * [Microsoft](./Microsoft.md)
 
 ## Background
